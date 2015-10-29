@@ -2,7 +2,11 @@
 
 ## How Do I Run the Presentation?
 
-For instruction on how to install and run the presentation, refer to the [reveal.js documentation](https://github.com/hakimel/reveal.js#installation).
+### You can view the presentation online here: [http://pahund.github.io/ebaytechtalk29/](pahund.github.io/ebaytechtalk29)
+
+The presentation is made with [Hakim El Hattab](http://hakim.se/)'s [reveal.js framework](http://lab.hakim.se/reveal-js/).
+
+For instruction on how to install and run the presentation locally, refer to the [reveal.js documentation](https://github.com/hakimel/reveal.js#installation).
 
 ## What Is It About?
 

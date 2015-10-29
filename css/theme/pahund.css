@@ -247,6 +247,10 @@ body {
     margin-right: 0.5rem;
 }
 
+.reveal .large-margin-top {
+    margin-top: 6rem;
+}
+
 .reveal .margin-top {
     margin-top: 3rem;
 }
@@ -259,6 +263,9 @@ body {
     color: darkgreen;
 }
 
+.reveal section.smaller-text {
+    font-size: 80%;
+}
 
 /*********************************************
  * LINKS
