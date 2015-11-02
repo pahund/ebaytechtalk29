@@ -2,7 +2,7 @@
 
 ## How Do I Run the Presentation?
 
-### You can view the presentation online here: [http://pahund.github.io/ebaytechtalk29/](pahund.github.io/ebaytechtalk29)
+### You can view the presentation online here: [pahund.github.io/ebaytechtalk29](http://pahund.github.io/ebaytechtalk29/)
 
 The presentation is made with [Hakim El Hattab](http://hakim.se/)'s [reveal.js framework](http://lab.hakim.se/reveal-js/).
 
